@@ -1,5 +1,5 @@
 {
-  "name": "angular-ui-notification",
+  "name": "jkytomaki-angular-ui-notification",
   "version": "0.0.14-SNAPSHOT",
   "description": "Angular.js service providing simple notifications using Bootstrap 3 styles with css transitions for animating",
   "main": "dist/angular-ui-notification.min",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexcrack/angular-ui-notification.git"
+    "url": "https://github.com/jkytomaki/angular-ui-notification"
   },
   "keywords": [
     "angular",
